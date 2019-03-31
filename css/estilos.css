@@ -1,38 +1,13 @@
-.container1
+.headerr
 {
-    background-color: aqua;
-    height: 100vh;
+    margin-top: 80px;
+    margin-bottom: 20px;
 }
-.SectNavb
+.gris
 {
-    height: 70%;
+    background: rgba(0, 0, 0, 0.952);
 }
-.Header
+.top-nav-collapse
 {
-    background-color: blue;
-    height: 20%;
-}
-.Section
-{
-    background-color: blueviolet;
-}
-.Navb   
-{
-    background-color: brown;
-}
-.Footer
-{
-    background-color: slategray;
-    height: 10%;
-}
-@media (max-width: 576px) 
-{
-    .Section
-    {
-        height: 70%;
-    }
-    .Navb
-    {
-        height: 30%;
-    }
+    background: rgb(0, 0, 0) !important;
 }
