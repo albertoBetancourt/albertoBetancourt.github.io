@@ -1,0 +1,38 @@
+.container1
+{
+    background-color: aqua;
+    height: 100vh;
+}
+.SectNavb
+{
+    height: 70%;
+}
+.Header
+{
+    background-color: blue;
+    height: 20%;
+}
+.Section
+{
+    background-color: blueviolet;
+}
+.Navb   
+{
+    background-color: brown;
+}
+.Footer
+{
+    background-color: slategray;
+    height: 10%;
+}
+@media (max-width: 576px) 
+{
+    .Section
+    {
+        height: 70%;
+    }
+    .Navb
+    {
+        height: 30%;
+    }
+}
